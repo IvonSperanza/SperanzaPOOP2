@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace Parcial2
 {
-    internal class Repositorioproveedores
+    internal class Repositorioproveedores: Alta
     {
         public class RepositorioProveedores<Proveedor>
 
