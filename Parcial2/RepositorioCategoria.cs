@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Parcial2
 {
-    internal class RepositorioCategoria
+    internal class RepositorioCategoria: Alta
     {
 
         private List<Categoria> categorias;
