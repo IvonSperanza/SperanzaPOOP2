@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Parcial2
 {
-    internal class Repositorioproducto
+    internal class Repositorioproducto: Alta
     {
         public class RepositorioProducto<Producto>
 
